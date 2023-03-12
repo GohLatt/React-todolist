@@ -87,6 +87,7 @@ input {
 }
 .list-box:hover {
   background-color: #a6c4fc;
+  color: #fff;
 }
 span {
   margin-right: 2.4rem;
